@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @TurtleHellMax
-- 👀 I’m interested in doing something cool for the world.
-- 🌱 I’m currently learning programming, Unity, and web developement.
-- 📫 You can email me at: maxstinkyfoot@gmail.com
-
-<!---
-TurtleHellMax/TurtleHellMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @TurtleHellMax
+- I'm an unemployed and in-school aspiring game dev who makes random stuff.
+- I use github rarely because I tend to just backup files to harddrives I guess.
+- I promise I do more than what you see here, I mean.
+- Anyway, you can email me whatever at: maxstinkyfoot@gmail.com
